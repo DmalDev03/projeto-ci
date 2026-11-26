@@ -10,7 +10,7 @@ on:
 permissions:
   contents: read
 
-  jobs:
+jobs:
   testes:
     name: Executar testes
     runs-on: ubuntu-latest
